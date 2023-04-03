@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, Soy Luciano Gonzalez</h1>
-<h3 align="center">Data Engineer/Project Manager de Argentina</h3>
+<h3 align="center">Data Engineer de Argentina</h3>
 <h4>
-Un apasionado de la tecnología y la ciencia de datos
-Mi formación en Data Science de la academia Soy Henry me ha permitido adquirir habilidades en manejo de bases de datos, programación y modelado de datos. <br>
-Me especializo en Python, SQL y herramientas de Big Data, y estoy comprometido en aprender y crecer continuamente en el campo.
+Un apasionado de la tecnología y la ciencia de datos, lo que me ha permitido adquirir habilidades en manejo de bases de datos, programación y modelado de datos. <br>
+Me encanta el manejo Python, SQL y herramientas de Big Data, y estoy comprometido en aprender y crecer continuamente en el campo.
 <h4>
 
 He trabajado en varios proyectos de Big Data y Machine Learning, tanto de manera individual como en equipo. En mi último proyecto, colaboré como Data Engineer y Project Manager en el procesamiento de datos de la industria de restaurantes en Estados Unidos, implementando transformaciones de datos y un modelo de recomendación
