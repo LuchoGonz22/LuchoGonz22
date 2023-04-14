@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Soy Luciano Gonzalez</h1>
-<h3 align="center">Data Engineer de Argentina</h3>
+<h3 align="center">Data Analyst de Argentina</h3>
 <h4>
 Un apasionado de la tecnología y la ciencia de datos, lo que me ha permitido adquirir habilidades en manejo de bases de datos, programación y modelado de datos. <br>
 Me encanta el manejo Python, SQL y herramientas de Big Data, y estoy comprometido en aprender y crecer continuamente en el campo.
