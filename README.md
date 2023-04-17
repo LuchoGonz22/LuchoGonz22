@@ -6,9 +6,11 @@ Me encanta el manejo Python, SQL y herramientas de Big Data, y estoy comprometid
 <h4>
 
 He trabajado en varios proyectos de Big Data y Machine Learning, tanto de manera individual como en equipo. En mi último proyecto, colaboré como Data Engineer y Project Manager en el procesamiento de datos de la industria de restaurantes en Estados Unidos, implementando transformaciones de datos y un modelo de recomendación
-- 🔭 Este es mi primer proyecto de Ciencia de datos: [https://github.com/LuchoGonz22/PI_MLOPS-](https://github.com/LuchoGonz22/PI_MLOPS-)
-
-- 🔭 Ultimo proyecto realizado [https://github.com/LuchoGonz22/Proyecto-Final](https://github.com/LuchoGonz22/Proyecto-Final)
+- 🔭 Este es mi primer proyecto de Ciencia de datos en el rol de MLOPs: [Acceda aquí](https://github.com/LuchoGonz22/PI_MLOPS-)
+  
+- 🔭 Proyecto realizado posicionandome en el rol de Data Analyst: [Acceda aquí](https://github.com/LuchoGonz22/PI02-DA)
+  
+- 🔭 Ultimo proyecto realizado de forma grupal: [Acceda aquí](https://github.com/LuchoGonz22/Proyecto-Final)
 
 - 📫 Mi Gmail donde contactarme: **lucho.gonzzalez.20@gmail.com**
 
