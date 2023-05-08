@@ -12,7 +12,7 @@ He trabajado en varios proyectos de Big Data y Machine Learning, tanto de manera
   
 - 🔭 Ultimo proyecto realizado de forma grupal: [Acceda aquí](https://github.com/LuchoGonz22/Proyecto-Final)
 
-- 📫 Mi Gmail donde contactarme: **lucho.gonzzalez.20@gmail.com**
+- 📫 Mi Gmail donde contactarme: **lucianogonzalez.data@outlook.com**
 
 <h3 align="left">Otros metodos de contacto:</h3>
 <p align="left">
