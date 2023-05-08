@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst de Argentina</h3>
 <h4>
 Un apasionado de la tecnología y la ciencia de datos, lo que me ha permitido adquirir habilidades en manejo de bases de datos, programación y modelado de datos. <br>
-Me encanta el manejo Python, SQL y herramientas de Big Data, y estoy comprometido en aprender y crecer continuamente en el campo.
+Me encanta el manejo de Python y SQL, y estoy comprometido en aprender y crecer continuamente en el campo.
 <h4>
 
 He trabajado en varios proyectos de Big Data y Machine Learning, tanto de manera individual como en equipo. En mi último proyecto, colaboré como Data Engineer y Project Manager en el procesamiento de datos de la industria de restaurantes en Estados Unidos, implementando transformaciones de datos y un modelo de recomendación
