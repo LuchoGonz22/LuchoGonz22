@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Soy Luciano Gonzalez</h1>
-<h3 align="center">Data Analyst de Argentina</h3>
+<h3 align="center">Data Scientist de Argentina</h3>
 <h4>
 Un apasionado de la tecnología y la ciencia de datos, lo que me ha permitido adquirir habilidades en manejo de bases de datos, programación y modelado de datos. <br>
 Me encanta el manejo de Python y SQL, y estoy comprometido en aprender y crecer continuamente en el campo.
@@ -10,7 +10,7 @@ He trabajado en varios proyectos de Big Data y Machine Learning, tanto de manera
   
 - 🔭 Proyecto realizado posicionandome en el rol de Data Analyst: [Acceda aquí](https://github.com/LuchoGonz22/PI02-DA)
   
-- 🔭 Ultimo proyecto realizado de forma grupal: [Acceda aquí](https://github.com/LuchoGonz22/Proyecto-Final)
+- 🔭 Y mi ultimo proyecto realizado de forma grupal: [Acceda aquí](https://github.com/LuchoGonz22/Proyecto-Final)
 
 - 📫 Mi Gmail donde contactarme: **lucianogonzalez.data@outlook.com**
 
