@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Soy Luciano Gonzalez</h1>
-<h3 align="center">Data Scientist de Argentina</h3>
+<h3 align="center">Machine Learning Dev / Argentina</h3>
 <h4>
-Un apasionado de la tecnología y la ciencia de datos, lo que me ha permitido adquirir habilidades en manejo de bases de datos, programación y modelado de datos. <br>
+Un apasionado de la tecnología y Machine Learning, lo que me ha permitido adquirir habilidades en manejo de bases de datos, programación y modelado de datos. <br>
 Me encanta el manejo de Python y SQL, y estoy comprometido en aprender y crecer continuamente en el campo.
 <h4>
 
